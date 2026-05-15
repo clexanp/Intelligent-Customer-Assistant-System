@@ -1,0 +1,12 @@
+pandas
+numpy
+python-dotenv
+psycopg[binary]
+pgvector
+sqlalchemy
+streamlit
+langchain
+langchain-groq
+langchain-community
+sentence-transformers
+scikit-learn
